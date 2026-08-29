@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+
+# Node / React
+node_modules/
+dist/
+build/
+.npm/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Large Model Files (Optional, but good practice to ignore huge binaries if they get too big)
+# models/*.pt 

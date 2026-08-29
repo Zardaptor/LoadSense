@@ -1,0 +1,21 @@
+# LoadSense Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core ML
+torch>=2.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.5.0
+joblib>=1.3.0
+
+# Dashboard & Visualizations
+streamlit>=1.30.0
+plotly>=5.18.0
+matplotlib>=3.7.0
+seaborn>=0.13.0
+
+# Serial communication with ESP32
+pyserial>=3.5
+
+# Data formats
+pyyaml>=6.0

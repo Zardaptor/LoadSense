@@ -1,0 +1,6 @@
+# Keep this directory (git doesn't track empty dirs)
+# Trained model artifacts will be saved here:
+# - energy_model.pt   (Bi-LSTM weights)
+# - scaler.pkl         (StandardScaler)
+# - label_encoder.pkl  (device name encoder)
+# - irms_weight.pkl    (irms amplification factor)

@@ -1,0 +1,5 @@
+# Keep this directory (git doesn't track empty dirs)
+# Collected sensor data and pipeline outputs go here:
+# - readings.csv           (raw serial data from ESP32)
+# - labeled_readings.csv   (manually labeled training data)
+# - clustered_events.json  (DBSCAN pipeline output)

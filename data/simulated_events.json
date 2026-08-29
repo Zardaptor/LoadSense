@@ -1,0 +1,138 @@
+[
+  {
+    "index": 10,
+    "timestamp": 5000,
+    "delta_p": 60.65,
+    "abs_delta_p": 60.65,
+    "event_type": "ON",
+    "device_edge": "Bulb-60W"
+  },
+  {
+    "index": 70,
+    "timestamp": 35000,
+    "delta_p": -61.4,
+    "abs_delta_p": 61.4,
+    "event_type": "OFF",
+    "device_edge": "Bulb-60W"
+  },
+  {
+    "index": 80,
+    "timestamp": 40000,
+    "delta_p": 14.81,
+    "abs_delta_p": 14.81,
+    "event_type": "ON",
+    "device_edge": "Phone-Charger"
+  },
+  {
+    "index": 140,
+    "timestamp": 70000,
+    "delta_p": -14.14,
+    "abs_delta_p": 14.14,
+    "event_type": "OFF",
+    "device_edge": "Phone-Charger"
+  },
+  {
+    "index": 150,
+    "timestamp": 75000,
+    "delta_p": 151.69,
+    "abs_delta_p": 151.69,
+    "event_type": "ON",
+    "device_edge": "Soldering-Iron"
+  },
+  {
+    "index": 210,
+    "timestamp": 105000,
+    "delta_p": -147.3,
+    "abs_delta_p": 147.3,
+    "event_type": "OFF",
+    "device_edge": "Soldering-Iron"
+  },
+  {
+    "index": 220,
+    "timestamp": 110000,
+    "delta_p": 60.81,
+    "abs_delta_p": 60.81,
+    "event_type": "ON",
+    "device_edge": "Bulb-60W"
+  },
+  {
+    "index": 280,
+    "timestamp": 140000,
+    "delta_p": -58.94,
+    "abs_delta_p": 58.94,
+    "event_type": "OFF",
+    "device_edge": "Bulb-60W"
+  },
+  {
+    "index": 290,
+    "timestamp": 145000,
+    "delta_p": 15.87,
+    "abs_delta_p": 15.87,
+    "event_type": "ON",
+    "device_edge": "Phone-Charger"
+  },
+  {
+    "index": 350,
+    "timestamp": 175000,
+    "delta_p": -15.83,
+    "abs_delta_p": 15.83,
+    "event_type": "OFF",
+    "device_edge": "Phone-Charger"
+  },
+  {
+    "index": 360,
+    "timestamp": 180000,
+    "delta_p": 152.03,
+    "abs_delta_p": 152.03,
+    "event_type": "ON",
+    "device_edge": "Soldering-Iron"
+  },
+  {
+    "index": 420,
+    "timestamp": 210000,
+    "delta_p": -148.82,
+    "abs_delta_p": 148.82,
+    "event_type": "OFF",
+    "device_edge": "Soldering-Iron"
+  },
+  {
+    "index": 430,
+    "timestamp": 215000,
+    "delta_p": 60.25,
+    "abs_delta_p": 60.25,
+    "event_type": "ON",
+    "device_edge": "Bulb-60W"
+  },
+  {
+    "index": 440,
+    "timestamp": 220000,
+    "delta_p": 14.1,
+    "abs_delta_p": 14.1,
+    "event_type": "ON",
+    "device_edge": "Phone-Charger"
+  },
+  {
+    "index": 500,
+    "timestamp": 250000,
+    "delta_p": 150.27,
+    "abs_delta_p": 150.27,
+    "event_type": "ON",
+    "device_edge": "Soldering-Iron"
+  },
+  {
+    "index": 540,
+    "timestamp": 270000,
+    "delta_p": -15.86,
+    "abs_delta_p": 15.86,
+    "event_type": "OFF",
+    "device_edge": "Phone-Charger"
+  },
+  {
+    "index": 560,
+    "timestamp": 280000,
+    "delta_p": -64.04,
+    "abs_delta_p": 64.04,
+    "event_type": "OFF",
+    "device_edge": "Bulb-60W"
+  }
+]
