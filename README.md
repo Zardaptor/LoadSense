@@ -1,6 +1,6 @@
 # ⚡ LoadSense — AI-Based Non-Intrusive Load Monitoring
 
-**Team:** Suraj Kalyanaraman (24BEI0004) | Nandish S (24BEI0027) | Aswin N (24BEI0031)
+**Team:** Suraj Kalyanaraman (24BEI0004) | Nandish S (24BEI0027) | Roshan Aaqil Parvez (24BEE0220) | Arun S.M (24BEE0242)
 
 An intelligent IoT energy monitoring system that identifies individual appliance consumption from a single sensing point using AI/ML (DBSCAN clustering + Bidirectional LSTM classification).
 
