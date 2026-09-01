@@ -1,0 +1,83 @@
+- generic [ref=e4]:
+  - generic [ref=e5]:
+    - generic [ref=e397]:
+      - generic [ref=e398]: ⚡
+      - generic [ref=e399]: MCB OVERLOAD — 3084W exceeds 2,500W safe limit
+      - generic [ref=e400]: TRIP RISK
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - generic [ref=e8]: SMART EXTENSION — UNIT A1
+        - generic [ref=e9]: LIVE
+      - generic [ref=e401]: drag to rotate
+      - img [ref=e13]:
+        - generic [ref=e26]: MCB
+        - generic [ref=e29] [cursor=pointer]:
+          - generic [ref=e38]: 459W
+          - generic [ref=e39]: "1"
+        - generic [ref=e42] [cursor=pointer]:
+          - generic [ref=e51]: 2065W
+          - generic [ref=e52]: "2"
+        - generic [ref=e61] [cursor=pointer]: "3"
+        - generic [ref=e64] [cursor=pointer]:
+          - generic [ref=e73]: 79W
+          - generic [ref=e74]: "4"
+        - generic [ref=e77] [cursor=pointer]:
+          - generic [ref=e86]: 358W
+          - generic [ref=e87]: "5"
+        - generic [ref=e90] [cursor=pointer]:
+          - generic [ref=e99]: 123W
+          - generic [ref=e100]: "6"
+      - generic:
+        - generic: 459W
+        - generic: Socket 1 · 2 devices
+  - generic [ref=e279]:
+    - generic [ref=e280]:
+      - generic [ref=e281]: TOTAL LOAD
+      - img [ref=e283]:
+        - generic [ref=e326]: "3084"
+        - generic [ref=e327]: WATTS
+        - generic [ref=e328]: CRITICAL
+        - generic [ref=e329]: "0"
+        - generic [ref=e330]: 3.6k
+    - generic [ref=e331]:
+      - generic [ref=e332]: DAILY COST
+      - generic [ref=e333]:
+        - generic [ref=e334]: ₹160.37
+        - img [ref=e336]
+        - generic [ref=e339]: +₹107.17 vs yesterday
+      - img [ref=e340]
+      - generic [ref=e344]:
+        - generic [ref=e345]: 7 days ago
+        - generic [ref=e346]: Today
+    - generic [ref=e347]:
+      - generic [ref=e348]: CARBON FOOTPRINT
+      - generic [ref=e349]:
+        - img [ref=e351]
+        - generic [ref=e359]:
+          - generic [ref=e360]: "10.44"
+          - generic [ref=e361]: kg CO₂ / day
+      - generic [ref=e362]:
+        - generic [ref=e363]:
+          - generic [ref=e364]: Renewable grid mix
+          - generic [ref=e365]: 42%
+        - generic [ref=e368]: 423 g/kWh · Best draw window 02:00–06:00
+    - generic [ref=e369]:
+      - generic [ref=e370]:
+        - img [ref=e372]
+        - generic [ref=e375]:
+          - generic [ref=e376]: LoadSense Agent
+          - generic [ref=e377]: online
+        - generic [ref=e378]: CRITICAL
+      - generic [ref=e380]:
+        - generic [ref=e382]:
+          - paragraph [ref=e383]: "Grid status: Warning. Socket 2 drawing 650W (Toaster). Total load at 1,650W — 72% of your 2,300W safe limit. Optimise?"
+          - paragraph [ref=e384]: 09:41
+        - generic [ref=e386]:
+          - paragraph [ref=e387]: Yes, 3 quick wins
+          - paragraph [ref=e388]: 09:42
+        - generic [ref=e390]:
+          - paragraph [ref=e391]: 1. Shift washing machine off-peak → saves ~40% cost 2. Never run toaster + kettle simultaneously 3. Socket 5 air purifier → eco mode saves 120W
+          - paragraph [ref=e392]: 09:42
+      - generic [ref=e394]:
+        - textbox "Ask LoadSense..." [ref=e395]
+        - button "Ask" [disabled] [ref=e396]

@@ -1,0 +1,143 @@
+- generic [ref=f7e3]:
+  - generic [ref=f7e4]:
+    - generic "LOADSENSE" [ref=f7e5]:
+      - img [ref=f7e6]
+    - generic [ref=f7e9]:
+      - generic "Dashboard" [ref=f7e10] [cursor=pointer]:
+        - img [ref=f7e12]
+      - generic "Grid Map" [ref=f7e17] [cursor=pointer]:
+        - img [ref=f7e18]
+      - generic "Analytics" [ref=f7e21] [cursor=pointer]:
+        - img [ref=f7e22]
+      - generic "Automation" [ref=f7e26] [cursor=pointer]:
+        - img [ref=f7e27]
+    - generic "Settings" [ref=f7e29] [cursor=pointer]:
+      - img [ref=f7e30]
+    - generic "Admin User — Pro Plan" [ref=f7e33] [cursor=pointer]: AU
+  - generic [ref=f7e34]:
+    - generic [ref=f7e35]:
+      - generic [ref=f7e36]:
+        - generic [ref=f7e37]: Overview
+        - generic [ref=f7e38]: ›
+        - generic [ref=f7e39]: Live Grid
+        - generic [ref=f7e41]: LIVE
+      - generic [ref=f7e42]:
+        - img [ref=f7e43]
+        - generic [ref=f7e46]: Search telemetry...
+      - generic [ref=f7e47]:
+        - text: LOAD
+        - generic [ref=f7e48]: 1650W
+      - img [ref=f7e50] [cursor=pointer]
+      - generic [ref=f7e56]: GRID NOMINAL
+    - generic [ref=f7e57]:
+      - generic [ref=f7e58]:
+        - generic [ref=f7e59]:
+          - generic [ref=f7e60]:
+            - generic [ref=f7e62]: SMART EXTENSION — UNIT A1
+            - generic [ref=f7e63]: LIVE
+          - generic [ref=f7e64]: drag to rotate
+          - img [ref=f7e70]:
+            - generic [ref=f7e83]: MCB
+            - generic [ref=f7e86] [cursor=pointer]:
+              - generic [ref=f7e95]: 450W
+              - generic [ref=f7e96]: "1"
+            - generic [ref=f7e99] [cursor=pointer]:
+              - generic [ref=f7e108]: 650W
+              - generic [ref=f7e109]: "2"
+            - generic [ref=f7e118] [cursor=pointer]: "3"
+            - generic [ref=f7e121] [cursor=pointer]:
+              - generic [ref=f7e130]: 80W
+              - generic [ref=f7e131]: "4"
+            - generic [ref=f7e134] [cursor=pointer]:
+              - generic [ref=f7e143]: 350W
+              - generic [ref=f7e144]: "5"
+            - generic [ref=f7e147] [cursor=pointer]:
+              - generic [ref=f7e156]: 120W
+              - generic [ref=f7e157]: "6"
+        - generic [ref=f7e181]:
+          - generic [ref=f7e182]:
+            - generic [ref=f7e183]: REAL-TIME DISAGGREGATION
+            - img [ref=f7e184]
+          - generic [ref=f7e186]:
+            - generic [ref=f7e187]:
+              - generic [ref=f7e188]: LED TV
+              - generic [ref=f7e191]: 450W
+            - generic [ref=f7e192]:
+              - generic [ref=f7e193]: Toaster
+              - generic [ref=f7e196]: 650W
+            - generic [ref=f7e197]:
+              - generic [ref=f7e198]: Phone Charger
+              - generic [ref=f7e201]: 80W
+            - generic [ref=f7e202]:
+              - generic [ref=f7e203]: Air Purifier
+              - generic [ref=f7e206]: 350W
+            - generic [ref=f7e207]:
+              - generic [ref=f7e208]: Desk Fan
+              - generic [ref=f7e211]: 120W
+      - generic [ref=f7e213]:
+        - generic [ref=f7e214]:
+          - generic [ref=f7e215]: TOTAL LOAD
+          - generic [ref=f7e217]:
+            - generic [ref=f7e218]: "Limit: 3,600W"
+            - generic [ref=f7e219]: 46%
+          - img [ref=f7e223]:
+            - generic [ref=f7e266]: "1650"
+            - generic [ref=f7e267]: WATTS
+            - generic [ref=f7e268]: WARNING
+            - generic [ref=f7e269]: "0"
+            - generic [ref=f7e270]: 3.6k
+        - generic [ref=f7e271]:
+          - generic [ref=f7e272]:
+            - img [ref=f7e273]
+            - generic [ref=f7e276]: NEURAL ANOMALIES
+            - generic [ref=f7e277]: 2 Alerts
+          - generic [ref=f7e278]:
+            - generic [ref=f7e281]:
+              - generic [ref=f7e282]: Elevated Draw
+              - generic [ref=f7e283]: 1650W — 46% of capacity ceiling
+            - generic [ref=f7e286]:
+              - generic [ref=f7e287]: Efficiency Drift
+              - generic [ref=f7e288]: Socket 2 drawing 8% above calibrated baseline
+        - generic [ref=f7e289]:
+          - generic [ref=f7e290]: DAILY COST
+          - generic [ref=f7e291]:
+            - generic [ref=f7e292]: ₹85.80
+            - img [ref=f7e294]
+            - generic [ref=f7e297]: +₹32.60 vs yesterday
+          - img [ref=f7e298]
+          - generic [ref=f7e302]:
+            - generic [ref=f7e303]: 7 days ago
+            - generic [ref=f7e304]: Today
+        - generic [ref=f7e305]:
+          - generic [ref=f7e306]: CARBON FOOTPRINT
+          - generic [ref=f7e307]:
+            - img [ref=f7e309]
+            - generic [ref=f7e317]:
+              - generic [ref=f7e318]: "5.58"
+              - generic [ref=f7e319]: kg CO₂ / day
+          - generic [ref=f7e320]:
+            - generic [ref=f7e321]:
+              - generic [ref=f7e322]: Renewable grid mix
+              - generic [ref=f7e323]: 42%
+            - generic [ref=f7e326]: 423 g/kWh · Best draw window 02:00–06:00
+        - generic [ref=f7e327]:
+          - generic [ref=f7e328]:
+            - img [ref=f7e331]
+            - generic [ref=f7e336]:
+              - generic [ref=f7e337]: AGENTIC AI OVERRIDE
+              - generic [ref=f7e338]: Terminal Session
+            - generic [ref=f7e339]: WARNING
+          - generic [ref=f7e341]:
+            - generic [ref=f7e343]:
+              - paragraph [ref=f7e344]: "Grid status: Warning. Socket 2 drawing 650W (Toaster). Total load at 1,650W — 72% of your 2,300W safe limit. Optimise?"
+              - paragraph [ref=f7e345]: 09:41
+            - generic [ref=f7e347]:
+              - paragraph [ref=f7e348]: Yes, 3 quick wins
+              - paragraph [ref=f7e349]: 09:42
+            - generic [ref=f7e351]:
+              - paragraph [ref=f7e352]: 1. Shift washing machine off-peak → saves ~40% cost 2. Never run toaster + kettle simultaneously 3. Socket 5 air purifier → eco mode saves 120W
+              - paragraph [ref=f7e353]: 09:42
+          - generic [ref=f7e355]:
+            - textbox "Command the grid agent..." [ref=f7e356]
+            - button [disabled] [ref=f7e357]:
+              - img [ref=f7e358]

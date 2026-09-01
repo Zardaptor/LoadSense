@@ -1,0 +1,10 @@
+{
+  "description": "This web application streamlines research by aggregating and analyzing data from multiple sources, helping users make informed decisions quickly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
